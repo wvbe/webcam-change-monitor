@@ -6,7 +6,7 @@
 		"start": "node run.js"
 	},
 	"author": "wvbe",
-	"license": "MIT",
+	"license": "WTFPL",
 	"dependencies": {
 		"asciichart": "1.5.25",
 		"camera-capture": "0.0.11",
